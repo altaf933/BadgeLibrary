@@ -22,11 +22,17 @@ Example:
         badge_style:badgeSize_Height="20"
         badge_style:badgeSize_Width="20"
         badge_style:badgeTextColor="#298A08"
-        badge_style:icon_main="@android:drawable/ic_menu_delete"></badgecustomview.CustomBadge>
-
-
+        badge_style:icon_main="@android:drawable/ic_menu_delete">
+    </badgecustomview.CustomBadge>
 </LinearLayout>
 
 -->Here libraray also handle click listener and settext again when you get badge again
+
 -->I am still trying to putting effort and more user freindly.
+
+ Screenshot:
+ ![ScreenShot](https://github.com/altaf933/BadgeLibrary/blob/master/screenshot/sceen_Shot.png)
+ 
+    
+ 
 
