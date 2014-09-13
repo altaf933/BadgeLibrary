@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<declare-styleable name="badge_style">
+
+		<attr name="background_badgecolor" format="color" />
+		<attr name="text_badge" format="string" />
+		<attr name="border_badgecolor" format="color" />
+        <attr name="badgeTextColor" format="color" />
+        <attr name="icon_main" format="integer" />
+        <attr name="icon_badge" format="integer" />
+        <attr name="badgeSize_Width" format="integer" />
+        <attr name="badgeSize_Height" format="integer" />
+
+	</declare-styleable>
+
+</resources>

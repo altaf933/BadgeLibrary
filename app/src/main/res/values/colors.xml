@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2013 47 Degrees, LLC
+  ~  http://47deg.com
+  ~  hello@47deg.com
+  ~
+  ~  Licensed under the Apache License, Version 2.0 (the "License");
+  ~  you may not use this file except in compliance with the License.
+  ~  You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~  Unless required by applicable law or agreed to in writing, software
+  ~  distributed under the License is distributed on an "AS IS" BASIS,
+  ~  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~  See the License for the specific language governing permissions and
+  ~  limitations under the License.
+-->
+
+<resources>
+
+    <!-- common -->
+    <color name="col_blue">#7185aa</color>
+    <color name="col_silver">#bfbfbf</color>
+
+    <!-- color for button -->
+    <color name="col_button_selecto">#C3621C</color>
+    <color name="col_button_nomal">#ffffff</color>
+    <color name="col_silver_light">#ecedec</color>
+    <color name="dark_blue">#365389</color>
+    <!-- END OF IN APP SCREEN -->
+    <color name="background_list_front">#ffffff</color>
+    <color name="text_title">#444444</color>
+    <color name="text_description">#7e7e7e</color>
+    <color name="listview_divider">#4f81be</color>
+
+    <!-- color for listview background -->
+    <color name="col_list_selecto">#ed7b25</color>
+    <color name="col_list_nomal">#EDF5FF</color>
+    <color name="col_list_selmaplistnormal">#88BEFE</color>
+    <color name="dark_green">#85BD85</color>
+    <color name="light_green">#A5C7A1</color>
+    <color name="dark_blue_list">#869FBF</color>
+    <color name="light_blue">#9CAFC7</color>
+    <color name="orange">#D2A385</color>
+    
+    
+    <!-- state button create game -->
+    <color name="transparent">#365389</color>
+    <color name="btn_selected_">#365389</color>
+    <!-- end state button create game -->
+    
+     <!-- intermediate list color -->
+    <color name="intermediate_blue_dark">#5C88C1</color>
+    <color name="intermediate_blue_light">#99AEC7</color>
+    <color name="intermediate_title_divider">#B8B8B8</color>
+    
+    <!-- intermediate list color -->
+
+</resources>

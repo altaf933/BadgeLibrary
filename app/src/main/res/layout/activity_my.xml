@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:badge_style="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+
+
+    <badgecustomview.CustomBadge
+        android:id="@+id/customebadge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        badge_style:background_badgecolor="#F5A9F2"
+        badge_style:badgeSize_Height="20"
+        badge_style:badgeSize_Width="20"
+        badge_style:badgeTextColor="#298A08"
+        badge_style:icon_main="@android:drawable/ic_menu_delete"></badgecustomview.CustomBadge>
+
+    <badgecustomview.CustomBadge
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        badge_style:background_badgecolor="#dedede"
+        badge_style:badgeSize_Height="20"
+        badge_style:badgeSize_Width="20"
+        badge_style:badgeTextColor="#298A08"
+        badge_style:icon_main="@drawable/folder_offline"></badgecustomview.CustomBadge>
+
+    <badgecustomview.CustomBadge
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        badge_style:background_badgecolor="#ED7B25"
+        badge_style:badgeSize_Height="20"
+        badge_style:badgeSize_Width="20"
+        badge_style:badgeTextColor="#298A08"
+        badge_style:icon_main="@drawable/folderblue"></badgecustomview.CustomBadge>
+
+
+</LinearLayout>
